@@ -89,7 +89,7 @@ Antonio isn't just functional — he has *character*. Multiple personality modes
 
 **Digital logbook, immersion presets & map** — One-tap tracking for service, oil, fuel; thematic modes (e.g. Carlos, Flight mode) with audio samples; real-time traffic and satellite navigation.
 
-![Antonio features](docs/screenshots/features.png)
+![Antonio features](docs/screenshots/features.png?v=2)
 
 ---
 
