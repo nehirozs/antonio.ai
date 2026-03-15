@@ -3,7 +3,7 @@
 <br />
 
 # 🚙 Antonio 🚙
-### *The Blue Devil*
+### <span style="color:#1a2a6c">*The Blue Devil*</span>
 
 **A voice-first AI assistant built for drivers.**  
 Say his name. He's already listening.
