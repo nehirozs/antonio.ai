@@ -2,7 +2,7 @@
 
 <br />
 
-# 🚗 Antonio
+# <span style="color:#1a2a6c">🚗</span> Antonio
 ### *The Blue Devil*
 
 **A voice-first AI assistant built for drivers.**  
@@ -90,12 +90,6 @@ Antonio isn't just functional — he has *character*. Multiple personality modes
 **Car features** — Maintenance log, immersion presets (e.g. Flight mode), and live map with traffic & satellite.
 
 ![Antonio features](docs/screenshots/features.png)
-
----
-
-## Demo
-
-> 🎬 Demo video coming soon.
 
 ---
 
