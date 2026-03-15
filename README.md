@@ -115,7 +115,7 @@ Built by **Nehir Özsunar** — CS student at McGill University (AI concentratio
 
 <div align="center">
 
-**© 2025 Nehir Özsunar. All rights reserved.**  
+**© 2026 Nehir Özsunar. All rights reserved.**  
 *This repository is a project showcase. Source code is proprietary and not available for reuse, redistribution, or reproduction without explicit written permission.*
 
 </div>
